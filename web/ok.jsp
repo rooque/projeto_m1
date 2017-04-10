@@ -16,7 +16,7 @@
     <body>
         <h1>OK</h1>
         <p><%=request.getAttribute(ATRI_MSG)%></p>
-        <a href="/ProjetoM1">Inicio</a>
+        <a href="/projeto_m1">Inicio</a>
                 
     </body>
 </html>

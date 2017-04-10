@@ -19,7 +19,7 @@
     <body>
     <center>
         <h1>Carrinho</h1>
-        <p><a href="/ProjetoM1/"><--HOME</a></p>
+        <p><a href="/projeto_m1/"><--HOME</a></p>
         
         <form action="<%= CONTROLE_COMPRA %>" method="post">
         

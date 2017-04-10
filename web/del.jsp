@@ -13,6 +13,6 @@
     </head>
     <body>
         <h1>Compra Deletada!</h1>
-        <a href="/ProjetoM1/ControleCompra?acao=listar">Voltar</a>
+        <a href="/projeto_m1/ControleCompra?acao=listar">Voltar</a>
     </body>
 </html>
