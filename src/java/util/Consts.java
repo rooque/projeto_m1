@@ -14,7 +14,7 @@ public class Consts {
     // PGSQL CONFIGs
     public static final String PSQL_IP = "localhost";
     public static final String PSQL_PORT = "5432";
-    public static final String PSQL_DB = "projeto_m1";
+    public static final String PSQL_DB = "projeto_erika";
     public static final String PSQL_USER = "postgres";
     public static final String PSQL_PASS = "postgres";
     

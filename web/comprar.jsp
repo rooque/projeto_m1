@@ -14,12 +14,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Projeto M1 - Comprar</title>
+        <title>Projeto Erika - Comprar</title>
     </head>
     <body>
     <center>
         <h1>Carrinho</h1>
-        <p><a href="/projeto_m1/"><--HOME</a></p>
+        <p><a href="/ProjetoErika/"><--HOME</a></p>
         
         <form action="<%= CONTROLE_COMPRA %>" method="post">
         

@@ -10,11 +10,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Projeto M1</title>
+        <title>Projeto Erika</title>
     </head>
     <body>
     <center>
-        <h1>Projeto M1</h1>    
+        <h1>Projeto Erika</h1>    
         <p><a href="<%= CONTROLE_COMPRA %>?<%= ACAO %>=<%= ACAO_COMPRAR %>">Ir as Compras</a></p>
         <p><a href="<%= CONTROLE_COMPRA %>?<%= ACAO %>=<%= ACAO_LISTAR %>">Listar Compras</a></p>
         <p><a href="cad_prod.jsp">Cadastrar Produto</a></p>

@@ -11,7 +11,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Projeto M1 - Erro</title>
+        <title>Projeto Erika - Erro</title>
     </head>
     <body>
         <h1>Erro</h1>

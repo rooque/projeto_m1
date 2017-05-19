@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Projeto M1 - Deletar Compra</title>
+        <title>Projeto Erika - Deletar Compra</title>
     </head>
     <body>
         <h1>Compra Deletada!</h1>

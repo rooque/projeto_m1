@@ -16,11 +16,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Projeto M1 - Lista</title>
+        <title>Projeto Erika - Lista</title>
     </head>
     <body>
         <h1 style="text-align: center;">Lista</h1>
-        <p style="text-align: center;"><a href="/projeto_m1/"><--HOME</a></p>
+        <p style="text-align: center;"><a href="/ProjetoErika/"><--HOME</a></p>
         
         <% for(Compra c: lc){ %>
         <div style="border:1px;border-color: black;border-style: dashed;margin: 5px;display: flex;text-align: center;flex-direction: column;align-items: center;justify-content: center;">
@@ -45,7 +45,7 @@
             <td colspan="2">R$<%= c.getTotal() %></td>
         </tr>
         </table>
-            <p><a href="/projeto_m1/<%= CONTROLE_COMPRA %>?<%= ACAO %>=<%= ACAO_DEL_COMPRA %>&id=<%= c.getId() %>">Deletar</a></p>
+            <p><a href="/ProjetoErika/<%= CONTROLE_COMPRA %>?<%= ACAO %>=<%= ACAO_DEL_COMPRA %>&id=<%= c.getId() %>">Deletar</a></p>
        
         </div>
         <%
